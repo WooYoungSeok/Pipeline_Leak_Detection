@@ -5,7 +5,7 @@ This project explores the detection of pipeline leaks using vibration data and m
 
 ---
 
-## data Link
+## Data Link
 https://www.aihub.or.kr/aihubdata/data/view.docurrMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=138
 
 ---
